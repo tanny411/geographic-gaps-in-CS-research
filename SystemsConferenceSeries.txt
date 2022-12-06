@@ -1,0 +1,39 @@
+1174091362	12697	ASPLOS	Architectural Support for Programming Languages and Operating Systems	1338	1338	94055	2016-06-24
+1130478978	11941	ICSA	IEEE/IFIP International Conference on Software Architecture	535	535	10190	2016-06-24
+1150919317	13250	MICRO	International Symposium on Microarchitecture	1925	1925	97934	2016-06-24
+1152462849	9922	SIGCOMM	ACM Special Interest Group on Data Communication	4429	4429	392405	2016-06-24
+1158363782	9755	NSDI	Networked Systems Design and Implementation	721	721	73006	2016-06-24
+2755540263	14125	CCS	International Conference on Communication, Computing & Security	132	132	820	2017-09-25
+1163618098	9029	S&P	IEEE Symposium on Security and Privacy	3863	3863	208576	2016-06-24
+2537594308	9368	SECURITY	USENIX Security Symposium	1717	1717	107406	2016-10-28
+1180274659	9888	NDSS	Network and Distributed System Security Symposium	1014	1014	66699	2016-06-24
+1175089206	8891	SIGMOD	International Conference on Management of Data	7518	7516	437875	2016-06-24
+1133523790	10498	VLDB	Very Large Data Bases	7196	7196	404515	2016-06-24
+1163988186	8808	ICDE	International Conference on Data Engineering	6389	6389	193483	2016-06-24
+1184151122	9573	PODS	Symposium on Principles of Database Systems	1539	1539	77244	2016-06-24
+1187904452	8443	DAC	Design Automation Conference	13939	13938	263057	2016-06-24
+1128132410	9240	ICCAD	International Conference on Computer Aided Design	5696	5694	122077	2016-06-24
+1162226489	11691	EMSOFT	Embedded Software	812	812	15036	2016-06-24
+1190910256	10941	RTAS	Real Time Technology and Applications Symposium	957	957	23794	2016-06-24
+1124527938	10023	RTSS	Real-Time Systems Symposium	1647	1647	58519	2016-06-24
+1141854641	10413	HPDC	High Performance Distributed Computing	1334	1334	37832	2016-06-24
+1136691831	10152	ICS	International Conference on Supercomputing	3294	3294	49188	2016-06-24
+2606469623	9871	SC	Conference on High Performance Computing (Supercomputing)	1844	1844	64579	2017-04-28
+1123349196	8670	MOBICOM	ACM/IEEE International Conference on Mobile Computing and Networking	1641	1641	172089	2016-06-24
+1184619595	10039	MobiSys	International Conference on Mobile Systems, Applications, and Services	1293	1293	56400	2016-06-24
+1138550902	9721	SenSys	International Conference on Embedded Networked Sensor Systems	1425	1425	78745	2016-06-24
+1160604004	10059	IMC	Internet Measurement Conference	856	856	58797	2016-06-24
+1131589359	13146	SIGMETRICS	Measurement and Modeling of Computer Systems	3567	3567	91875	2016-06-24
+1185109434	9913	OSDI	Operating Systems Design and Implementation	538	537	88174	2016-06-24
+1171178643	10746	SOSP	Symposium on Operating Systems Principles	885	885	115134	2016-06-24
+1173393762	10837	EuroSys	European Conference on Computer Systems	852	852	40239	2016-06-24
+2625747718	10775	FAST	File and Storage Technologies	481	481	32210	2017-06-23
+2534597628	9734	USENIX ATC	USENIX Annual Technical Conference	1415	1415	70072	2016-10-28
+1127352206	13155	PLDI	Programming Language Design and Implementation	1649	1649	121068	2016-06-24
+1160032607	9530	POPL	Symposium on Principles of Programming Languages	1877	1877	131118	2016-06-24
+1162793720	10946	ICFP	International Conference on Functional Programming	1440	1438	48541	2016-06-24
+1138732554	11329	OOPSLA	Conference on Object-Oriented Programming Systems, Languages, and Applications	3105	3105	91516	2016-06-24
+1199533187	10503	FSE	Foundations of Software Engineering	2173	2173	74079	2016-06-24
+1174403976	8608	ICSE	International Conference on Software Engineering	14409	14405	258045	2016-06-24
+1166511975	12843	ASE	Automated Software Engineering	2956	2956	67463	2016-06-24
+1124964101	11061	ISSTA	International Symposium on Software Testing and Analysis	939	939	34310	2016-06-24

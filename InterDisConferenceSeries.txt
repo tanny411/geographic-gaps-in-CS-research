@@ -1,0 +1,16 @@
+1140680567	10873	ISMB	Intelligent Systems in Molecular Biology	852	852	51894	2016-06-24
+1188965700	11281	RECOMB	Research in Computational Molecular Biology	1481	1480	20423	2016-06-24
+1164321581	8510	SIGGRAPH	International Conference on Computer Graphics and Interactive Techniques	18008	18006	637820	2016-06-24
+2626360753	18294	SIGGRAPH Asia	SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia	9	9	201	2017-06-23
+2754362256	10357	Eurographics	Eurographics	4308	4308	63576	2017-09-25
+1174915412	13215	EC	Electronic Commerce	2390	2389	41529	2016-06-24
+1163494139	11938	WINE	Workshop on Internet and Network Economics	802	802	10193	2016-06-24
+1163450153	7930	CHI	Human Factors in Computing Systems	21453	21453	592617	2016-06-24
+1171345118	10071	UbiComp	Ubiquitous Computing	7415	7415	146369	2016-06-24
+1135538937	10715	Pervasive	International Conference on Pervasive Computing	3131	3131	39949	2016-06-24
+1166315290	9713	UIST	User Interface Software and Technology	2256	2255	91259	2016-06-24
+1163902177	7625	ICRA	International Conference on Robotics and Automation	33738	33732	924195	2016-06-24
+1143279144	8293	IROS	Intelligent Robots and Systems	20769	20766	349869	2016-06-24
+2606075370	10673	RSS	Robotics: Science and Systems	1078	1078	34022	2017-04-28
+2537178404	10074	IEEE VIS	IEEE Visualization	2069	2069	66092	2016-10-28
+1145019647	10344	VR	IEEE Virtual Reality Conference	3398	3398	43257	2016-06-24

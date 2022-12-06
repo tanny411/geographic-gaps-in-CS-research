@@ -2,3 +2,9 @@
 acl-cite-net/
 mag_dataset/
 *.csv
+*.txt
+
+!ai_conf_series.csv
+!SystemsConferenceSeries.txt
+!TheoryConferenceSeries.txt
+!InterDisConferenceSeries.txt
